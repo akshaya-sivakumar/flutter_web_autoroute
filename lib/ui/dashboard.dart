@@ -8,7 +8,6 @@ import 'package:flutter_web_autoroute/ui/profile_page.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({super.key});
-  
 
   @override
   Widget build(BuildContext context) {
